@@ -6,11 +6,11 @@ technologies: N/A
 image: /assets/images/vineyard_image.png
 ---
 
-For my Introduction to Mechanical Design course (MAE 2210), we were asked to design a mechanical product to address the invasion of Spotted Lanternflies (SLF) in the US, negatively impacting vineyard owners and grape production. My group, the Vine Vanguard, created a product pitch to submit to our clients Cornell CALS Extension, E &J Gallo Winery, and National Grape.
+For my Introduction to Mechanical Design course (MAE 2250), we were asked to design a mechanical product to address the invasion of Spotted Lanternflies (SLF) in the US, which has negatively impacted vineyard owners and grape production. My group, the Vine Vanguard, created a product pitch to submit to our clients Cornell CALS Extension, E & J Gallo Winery, and National Grape.
 
 <iframe src="{{ 'assets/VineVanguard_ClientOutline.pdf' | relative_url }}"
         width="100%"
         height="800px">
 </iframe>
 
-[View Full PDF]({{ 'assets/VineVanguard_ClientOutline.pdf' | relative_url }}")
+[Download the PDF]({{ 'assets/VineVanguard_ClientOutline.pdf' | relative_url }}")
