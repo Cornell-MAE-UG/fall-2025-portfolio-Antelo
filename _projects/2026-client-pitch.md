@@ -11,3 +11,4 @@ For my Introduction to Mechanical Design course (MAE 2210), we were asked to des
 <iframe src="VineVanguard_ClientOutline.pdf" width="100%" height="800px">
 </iframe>
 
+[View Full PDF](VineVanguard_ClientOutline.pdf)
