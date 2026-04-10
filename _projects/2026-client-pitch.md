@@ -1,8 +1,8 @@
 ---
 layout: project
 title: The Crusher
-description: MAE 2250 Open Design Project - Client Outline and Pitch
-technologies: N/A
+description: MAE 2250 Open Design Project
+technologies: [CAD, 3D Printing, Rapid Prototyping]
 image: /assets/images/vineyard_image.png
 ---
 
