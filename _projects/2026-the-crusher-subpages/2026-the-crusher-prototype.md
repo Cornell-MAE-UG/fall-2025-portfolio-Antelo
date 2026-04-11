@@ -3,15 +3,16 @@ layout: project
 title: The Crusher — Functional Prototype
 description: MAE 2250 Functional Prototype Report
 technologies: [CAD, 3D Printing, Rapid Prototyping]
-image: /assets/images/prototype_thumbnail.jpg
+image: assets/images/functionalprototype_title.png
 subcollection: true
 ---
 
-For my Introduction to Mechanical Design course (MAE 2250), our group the Vine Vanguard developed and tested a first functional prototype of The Crusher, a mechanical device designed to destroy Spotted Lanternfly egg masses after scraping.
+My group developed and tested a first functional prototype of The Crusher, a mechanical device designed to destroy Spotted Lanternfly egg masses after scraping.
+
+[Download the PDF of the Functional Prototype Report]({{ '/assets/VineVanguard_ FunctionalPrototype.pdf' | relative_url }})
 
 ---
 
-# Vine Vanguard
 # Functional Prototype
 
 ## Design Documentation
@@ -39,44 +40,50 @@ For my Introduction to Mechanical Design course (MAE 2250), our group the Vine V
       <td>1</td>
       <td>Fabricated</td>
       <td>PLA, Volume 1.984E+08 mm³</td>
-      <td>3D Print (RPL)</td>
+      <td>3D Print</td>
     </tr>
     <tr>
       <td>Spiral Shaft</td>
       <td>1</td>
       <td>Fabricated</td>
       <td>PLA, Volume 1.198E+07 mm³</td>
-      <td>3D Print (RPL)</td>
+      <td>3D Print</td>
     </tr>
     <tr>
       <td>Mesh Housing (Top)</td>
       <td>1</td>
       <td>Fabricated</td>
       <td>PLA, Volume 1.173E+08 mm³</td>
-      <td>3D Print (RPL)</td>
+      <td>3D Print</td>
     </tr>
     <tr>
       <td>Mesh Housing (Bottom)</td>
       <td>1</td>
       <td>Fabricated</td>
       <td>PLA, Volume 9.819E+07 mm³</td>
-      <td>3D Print (RPL)</td>
+      <td>3D Print</td>
     </tr>
     <tr>
       <td>Inlet Funnel</td>
       <td>1</td>
       <td>Fabricated</td>
       <td>PLA, Volume 8.050E+07 mm³</td>
-      <td>3D Print (RPL)</td>
+      <td>3D Print</td>
     </tr>
   </tbody>
 </table>
 
+<br>
 ## Illustration of Design Intent:
 Prototype components (CAD) and functions:
 
+![CAD Diagrams of Prototype Components]({{ "assets/images/VineVanguard_PrototypeComponents.png" | relative_url }}){: .full-width-image}
+
 Prototype assembly:
 
+![CAD Diagrams of Prototype Assembly]({{ "assets/images/VineVanguard_PrototypeAssembly.png" | relative_url }}){: .full-width-image}
+
+<br>
 ## Design Tests
 
 **Test 1:**
@@ -121,6 +128,7 @@ How efficient is the juicer inspired mechanism at crushing the egg masses? What 
 **Required Changes:**
  To address the accumulation of Orbeez at the housing bottom, the spiral will be redesigned to not taper in towards its base. Adjustments to the mesh will be explored to make it more secure against the eggs pressing against it. Configurations such as a 3D printed cylinder with cutouts for mesh pieces, a 3D printed cylinder with an embedded mesh design, and a solid cylindrical column with internal sandpaper lining may be tested.
 
+<br>
 ## Success Criteria:
 This project focuses on designing a device attachment that integrates with an existing scraping process to mechanically crush Spotted Lanternfly (SLF) egg masses immediately after removal, ensuring they do not hatch. Success will be evaluated based on effectiveness, processing speed, and appropriate sizing.
 
@@ -154,5 +162,3 @@ This project focuses on designing a device attachment that integrates with an ex
   - Measure the weight of the device using a scale
 
 ---
-
-[Download the PDF]({{ '/assets/ODP 5_Functional Prototype.pdf' | relative_url }})

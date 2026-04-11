@@ -3,24 +3,26 @@ layout: project
 title: The Crusher — Client Pitch
 description: MAE 2250 Client Pitch Report
 technologies: N/A
-image: /assets/images/vineyard_image.png
+image: assets/images/clientreport_title.png
 subcollection: true
 ---
 
-For my Introduction to Mechanical Design course (MAE 2250), we were asked to design a mechanical product to address the invasion of Spotted Lanternflies (SLF) in the US, which has negatively impacted vineyard owners and grape production. My group, the Vine Vanguard, created a product pitch to submit to our clients Cornell CALS Extension, E & J Gallo Winery, and National Grape.
+My group created a product pitch to submit to our clients Cornell CALS Extension, E & J Gallo Winery, and National Grape.
+
+[Download the PDF of the Product Pitch]({{ '/assets/VineVanguard_ClientOutline.pdf' | relative_url }})
 
 ---
+<br>
+# The Crusher
 
-# The Crusher — Vine Vanguard
-### *Let's crush these SLF!*
 
 ## Problem Statement
 
-Vineyard owners across New York State are affected by the rapid proliferation of Spotted Lanternflies (SLF), which lay egg masses directly on grapevines and nearby surfaces. They are trying to reduce SLF reproduction by destroying egg masses before they hatch. Each female SLF lays 30-120 eggs per year, and heavily infested vineyards can have 400 SLF per vine. This means that eggs are being laid exponentially. Current elimination methods such as crushing egg masses one-by-one is ineffective if they are not fully destroyed, and experimental ovicides kill only up to 75% of eggs. Even a single surviving egg mass can enable SLF persistence, escalating plant damage and contaminated harvests.
+Vineyard owners across New York State are affected by the rapid proliferation of Spotted Lanternflies (SLF), which lay egg masses directly on grapevines and nearby surfaces. They are trying to reduce SLF reproduction by destroying egg masses before they hatch. Each female SLF lays 30-120 eggs per year, and heavily infested vineyards can have 400 SLF per vine. This means that eggs are being laid exponentially. Current elimination methods such as crushing egg masses one-by-one is ineffective if they are not fully destroyed, and experimental ovicides kill only up to 75% of eggs (Krawczyk). Even a single surviving egg mass can enable SLF persistence, escalating plant damage and contaminated harvests. 
 
 ## Why It Matters to the End User
 
-A scalable, systematic method for eliminating large quantities of SLF egg masses is necessary to meaningfully reduce infestations and prevent substantial economic losses for vineyards. Without effective, large-scale intervention, projected losses in the Lake Erie and Finger Lakes regions alone could reach approximately **$8.8 million within three years**, highlighting the urgent need for proactive and reliable egg-destruction strategies.
+A scalable, systematic method for eliminating large quantities of SLF egg masses is necessary to meaningfully reduce infestations and prevent substantial economic losses for vineyards. Without effective, large-scale intervention, projected losses in the Lake Erie and Finger Lakes regions alone could reach approximately **$8.8 million within three years** (Gómez, 2025), highlighting the urgent need for proactive and reliable egg-destruction strategies. 
 
 ## Proposed Directions
 
@@ -46,4 +48,8 @@ A scalable, systematic method for eliminating large quantities of SLF egg masses
 
 ---
 
-[Download the PDF]({{ '/assets/VineVanguard_ClientOutline.pdf' | relative_url }})
+References:
+
+*Krawczyk, G. (n.d.). What should you do with spotted lanternfly egg masses?. Penn State Extension. https://extension.psu.edu/what-should-you-do-with-spotted-lanternfly-egg-masses*
+
+*Pinto, A. F., Eshenaur, B. C., Acevedo, F. E., Calixto, A. A., Centinari, M., & Gómez, M. I. (2025). Assessing the potential economic impacts of spotted lanternfly (Hemiptera: Fulgoridae) infestations on grape production in New York State.  Journal of Integrated Pest Management  ,  16  (1). https://doi.org/10.1093/jipm/pmae039 *
