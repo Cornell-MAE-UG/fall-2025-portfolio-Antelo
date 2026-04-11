@@ -4,6 +4,7 @@ title: Pressure Washer Nozzle Analysis
 description: Thermodynamics (MAE 2210) Device Analysis
 technologies: N/A
 image: assets\images\327681193_RM_RYOBI.jpg
+subcollection: false
 ---
 
 For my Thermodynamics course (MAE 2210), we were asked to select a real-world instance of the devices we studied in the course, explain its functions, perform an analysis of the system with methods learned in the course, and discuss how changes in its operating conditions would impact performance.
