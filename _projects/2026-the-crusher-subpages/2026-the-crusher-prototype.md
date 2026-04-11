@@ -155,4 +155,4 @@ This project focuses on designing a device attachment that integrates with an ex
 
 ---
 
-[Download the PDF]({{ '/assets/ODP_5__Functional_Prototype.pdf' | relative_url }})
+[Download the PDF]({{ '/assets/ODP 5_Functional Prototype.pdf' | relative_url }})
