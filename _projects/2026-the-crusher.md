@@ -10,14 +10,14 @@ image: /assets/images/vineyard_image.png
   <div class="project-gallery">
 
     <div class="gallery-item">
-      <a href="{{ '/projects/2026-the-crusher-client-pitch' | relative_url }}">
+      <a href="{{ '/projects//2026-the-crusher-subpages/2026-the-crusher-client-pitch' | relative_url }}">
         <img src="{{ '/assets/images/client_pitch_thumbnail.jpg' | relative_url }}" alt="Client Pitch Report" />
         <p>Client Pitch Report</p>
       </a>
     </div>
 
     <div class="gallery-item">
-      <a href="{{ '/projects/2026-the-crusher-prototype' | relative_url }}">
+      <a href="{{ '/projects/2026-the-crusher-subpages/2026-the-crusher-prototype' | relative_url }}">
         <img src="{{ '/assets/images/prototype_thumbnail.jpg' | relative_url }}" alt="Functional Prototype Report" />
         <p>Functional Prototype Report</p>
       </a>
