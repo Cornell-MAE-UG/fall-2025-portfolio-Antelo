@@ -3,7 +3,7 @@ layout: project
 title: Pressure Washer Nozzle Analysis
 description: Thermodynamics (MAE 2210) Device Analysis
 technologies: N/A
-image: assets\images\327681193_RM_RYOBI.jpg
+image: assets/images/327681193_RM_RYOBI.jpg
 subcollection: false
 ---
 
