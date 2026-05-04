@@ -1,9 +1,9 @@
 ---
 layout: project
 title: The Crusher — Client Pitch
-description: MAE 2250 Client Pitch Report
+description: MAE 2250 Client Pitch
 technologies: N/A
-image: assets/images/clientreport_title.png
+image: assets/images/client_pitch_picture.png
 subcollection: true
 ---
 

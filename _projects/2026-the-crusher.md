@@ -7,14 +7,14 @@ image: /assets/images/vineyard_image.png
 subcollection: false
 ---
 
-For my Introduction to Mechanical Design course (MAE 2250), we were asked to design a mechanical product to address the invasion of Spotted Lanternflies (SLF) in the US, which has negatively impacted vineyard owners and grape production. Below are the client pitch and functional prototypes my group developed.
+For my Introduction to Mechanical Design course (MAE 2250), we were asked to design a mechanical product to address the invasion of Spotted Lanternflies (SLF) in the US, which has negatively impacted vineyard owners and grape production. Below are the client pitch, functional prototype report, and client report my group developed.
 
 <div class="gallery-container">
   <div class="project-gallery">
 
     <div class="gallery-item">
       <a href="{{ '/projects//2026-the-crusher-subpages/2026-the-crusher-client-pitch' | relative_url }}">
-        <img src="{{ 'assets/images/clientreport_title.png' | relative_url }}" alt="Client Pitch Report" />
+        <img src="{{ 'assets/images/client_pitch_picture.png' | relative_url }}" alt="Client Pitch" />
       </a>
     </div>
 
@@ -24,5 +24,10 @@ For my Introduction to Mechanical Design course (MAE 2250), we were asked to des
       </a>
     </div>
 
+    <div class="gallery-item">
+      <a href="{{ '/projects/2026-the-crusher-subpages/2026-the-crusher-client-report' | relative_url }}">
+        <img src="{{ 'assets/images/clientreport_title.png' | relative_url }}" alt="Client Report" />
+      </a>
+    </div>
   </div>
 </div>
