@@ -247,7 +247,6 @@ Available: <https://doi.org/10.1093/jipm/pmae039>
 
 ### Utilized in the Prototype
 
-<p class="bom-label">← Scroll horizontally to view all columns →</p>
 <div class="bom-scroll-wrapper">
   <table>
     <thead>
@@ -412,7 +411,6 @@ Available: <https://doi.org/10.1093/jipm/pmae039>
 
 ### Additional Project Expenses
 
-<p class="bom-label">← Scroll horizontally to view all columns →</p>
 <div class="bom-scroll-wrapper">
   <table>
     <thead>
